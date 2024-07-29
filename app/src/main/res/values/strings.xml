@@ -1,3 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">NASAImageViewer</string>
+    <string name="home">Home</string>
+    <string name="help">Help</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="submit">Submit</string>
+    <string name="about">About</string>
+    <string name="save">Save</string>
+    <string name="viewImages">View Images</string>
+    <string name="search">Search</string>
+    <string name="images">Images</string>
+    <string name="date">Date</string>
+    <string name="hdurl">HDURL</string>
+    <string name="url">URL</string>
+    <string name="aboutActivity">About Activity v1</string>
+    <string name="homeActivity">Home Activity v1</string>
+    <string name="imagesActivity">Images Activity v1</string>
+    <string name="searchActivity">Search Activity v1</string>
+    <string name="user">Enter your name:</string>
+    <string name="homeHelpTitle">Home Help</string>
+    <string name="homeHelpMessage">This is the Home screen. Enter in your name and you will be greeted upon reopening the application.</string>
+    <string name="aboutHelpTitle">About Help</string>
+    <string name="aboutHelpMessage">This is the About screen. Here you can find information regarding the application or publisher.</string>
+    <string name="imagesHelpTitle">Images Help</string>
+    <string name="imagesHelpMessage">This is the Images screen. This is where you can view persisted images and related information.</string>
+    <string name="searchHelpTitle">Search Help</string>
+    <string name="searchHelpMessage">This is the Search screen. Use the DatePicker to select a date and retrieve an image from NASA\'s API.</string>
+    <string name="insertSuccess">Insert Complete!</string>
+    <string name="insertFailure">Insert Failed…</string>
+    <string name="delete">Delete</string>
+    <string name="back">Return</string>
+    <string name="view">View</string>
+    <string name="aboutApplication">Welcome to the NASA Image Viewer! Here, you can search through endless inspirational images straight from NASA\'s API.</string>
 </resources>

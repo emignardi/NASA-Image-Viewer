@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/home"
+        android:title="@string/home"
+        android:icon="@drawable/home"
+        app:showAsAction="never"
+        android:orderInCategory="1"/>
+
+    <item
+        android:id="@+id/search"
+        android:title="@string/search"
+        android:icon="@drawable/search"
+        app:showAsAction="never"
+        android:orderInCategory="2"/>
+
+    <item
+        android:id="@+id/images"
+        android:title="@string/images"
+        android:icon="@drawable/images"
+        app:showAsAction="never"
+        android:orderInCategory="3"/>
+
+    <item
+        android:id="@+id/about"
+        android:title="@string/about"
+        android:icon="@drawable/about"
+        app:showAsAction="never"
+        android:orderInCategory="4"/>
+
+    <item
+        android:id="@+id/help"
+        android:title="@string/help"
+        android:icon="@drawable/help"
+        app:showAsAction="never"
+        android:orderInCategory="5"/>
+
+</menu>

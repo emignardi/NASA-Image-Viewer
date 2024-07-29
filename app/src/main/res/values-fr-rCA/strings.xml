@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NASAImageViewer</string>
+    <string name="home">Maison</string>
+    <string name="help">Aide</string>
+    <string name="open">Ouvrir</string>
+    <string name="close">Fermer</string>
+    <string name="submit">Soumettre</string>
+    <string name="about">À propos</string>
+    <string name="save">Sauvegarder</string>
+    <string name="viewImages">Voir Les Images</string>
+    <string name="search">Recherche</string>
+    <string name="images">Images</string>
+    <string name="date">Date</string>
+    <string name="hdurl">URLHD</string>
+    <string name="url">URL</string>
+    <string name="aboutActivity">À Propos De L\'activité v1</string>
+    <string name="homeActivity">Activité à Domicile v1</string>
+    <string name="imagesActivity">Activité D’images v1</string>
+    <string name="searchActivity">Activité De Recherche v1</string>
+    <string name="user">Entrez votre nom:</string>
+    <string name="homeHelpTitle">Aide à domicile</string>
+    <string name="homeHelpMessage">Ceci est l\'écran d\'accueil. Entrez votre nom et vous serez accueilli à la réouverture de l\'application.</string>
+    <string name="aboutHelpTitle">À propos de l\'aide</string>
+    <string name="aboutHelpMessage">Il s\'agit de l\'écran À propos. Vous trouverez ici des informations concernant l\'application ou l\'éditeur.</string>
+    <string name="imagesHelpTitle">Aide sur les images</string>
+    <string name="imagesHelpMessage">C\'est l\'écran Images. C\'est ici que vous pouvez afficher les images persistantes et les informations associées.</string>
+    <string name="searchHelpTitle">Rechercher de l\'aide</string>
+    <string name="searchHelpMessage">Voici l\'écran de recherche. Utilisez DatePicker pour sélectionner une date et récupérer une image de l\'API de la NASA.</string>
+    <string name="insertSuccess">Insérer terminé!</string>
+    <string name="insertFailure">Échec de l\'insertion…</string>
+    <string name="delete">Supprimer</string>
+    <string name="back">Retour</string>
+    <string name="view">Voir</string>
+    <string name="aboutApplication">Bienvenue dans la visionneuse d\'images de la NASA ! Ici, vous pouvez rechercher une infinité d\'images inspirantes directement à partir de l\'API de la NASA.</string>
+</resources>
